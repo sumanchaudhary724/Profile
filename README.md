@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suman Chaudhary</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
+<p align="left"> <img src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="suman123" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanchaudhary724&label=Profile%20views&color=0e75b6&style=flat" alt="sumanchaudhary724" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanchaudhary724" alt="sumanchaudhary724" /></a> </p>
