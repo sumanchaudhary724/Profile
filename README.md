@@ -1,146 +1,17 @@
+<h1 align="center">Hi 👋, I'm Suman Chaudhary</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f0f0f0;
-      color: #333;
-      margin: 0;
-      padding: 0;
-    }
+<p align="left"> <img src="[https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg](https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80)" alt="suman123" /> </p>
 
-    h1 {
-      font-size: 36px;
-      text-align: center;
-      color: #007bff;
-      margin-top: 30px;
-    }
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanchaudhary724&label=Profile%20views&color=0e75b6&style=flat" alt="sumanchaudhary724" /> </p>
 
-    h3 {
-      font-size: 24px;
-      text-align: center;
-      color: #555;
-      margin-bottom: 30px;
-    }
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanchaudhary724" alt="sumanchaudhary724" /></a> </p>
 
-    p {
-      margin: 0;
-    }
-
-    .container {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 20px;
-      background-color: #fff;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      border-radius: 5px;
-    }
-
-    .profile-img {
-      width: 100%;
-      max-width: 400px;
-      border-radius: 5px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    }
-
-    .profile-views {
-      margin-top: 10px;
-      display: inline-block;
-      font-size: 14px;
-      color: #777;
-    }
-
-    .social-icons {
-      display: flex;
-      justify-content: center;
-      margin-top: 20px;
-    }
-
-    .social-icon {
-      margin: 0 10px;
-      transition: transform 0.2s ease-in-out;
-    }
-
-    .social-icon:hover {
-      transform: scale(1.2);
-    }
-
-    .languages-tools {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      margin-top: 30px;
-    }
-
-    .language-tool {
-      width: 50px;
-      height: 50px;
-      margin: 10px;
-      border-radius: 5px;
-      background-color: #f0f0f0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-
-    .stats-container {
-      display: flex;
-      justify-content: space-around;
-      margin-top: 30px;
-    }
-
-    .stats-box {
-      text-align: center;
-      padding: 10px 20px;
-      border-radius: 5px;
-      background-color: #007bff;
-      color: #fff;
-    }
-
-    .stats-box h4 {
-      margin: 0;
-      font-size: 18px;
-      font-weight: bold;
-    }
-
-    @keyframes fadeIn {
-      from {
-        opacity: 0;
-      }
-      to {
-        opacity: 1;
-      }
-    }
-
-    .animated {
-      animation-duration: 1s;
-      animation-fill-mode: both;
-    }
-
-    .fadeIn {
-      animation-name: fadeIn;
-    }
-  </style>
-</head>
-<body>
-  <div class="container animated fadeIn">
-    <h1>Hi 👋, I'm Suman Chaudhary</h1>
-    <h3>A passionate Full Stack Developer</h3>
-
-    <div class="profile-img">
-      <img src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="suman123" />
-    </div>
-
-    <p class="profile-views">
-      <img src="https://komarev.com/ghpvc/?username=sumanchaudhary724&label=Profile%20views&color=0e75b6&style=flat" alt="sumanchaudhary724" />
-    </p>
-
-    <div class="social-icons">
-      <a href="https://linkedin.com/in/https://www.linkedin.com/in/sumanchaudhary724/" target="_blank" class="social-icon"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
-      <a href="https://fb.com/https://www.facebook.com/suman.chaudhary.359/" target="_blank" class="social-icon"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" /></a>
-    </div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sumanchaudhary724/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumanchaudhary724/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/suman.chaudhary.359/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/suman.chaudhary.359/" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
