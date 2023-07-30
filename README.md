@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suman Chaudhary</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="left"> <img src="[https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg](https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80)" alt="suman123" /> </p>
+<p align="left"> <img src="https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="suman123" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanchaudhary724&label=Profile%20views&color=0e75b6&style=flat" alt="sumanchaudhary724" /> </p>
 
